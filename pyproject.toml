@@ -10,6 +10,12 @@ dependencies = [
     "torchaudio>=2.7.1",
     "jupyterlab>=4.4.3",
     "pandas>=2.3.0",
+    "outlines>=1.0.2",
+    "polars>=1.31.0",
+    "datasets>=3.6.0",
+    "matplotlib>=3.10.3",
+    "transformers>=4.53.0",
+    "pytesseract>=0.3.13",
 ]
 
 [tool.uv.sources]
