@@ -1,0 +1,12 @@
+from importlib_metadata import version
+print(version('tqdm'))
+print(version('regex'))
+print(version('requests'))
+print(version('packaging'))
+print(version('filelock'))
+print(version('numpy'))
+print(version('tokenizers'))
+print(version('huggingface-hub'))
+print(version('safetensors'))
+print(version('accelerate'))
+print(version('pyyaml'))
