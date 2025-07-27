@@ -22,6 +22,8 @@ dependencies = [
     "transformers>=4.53.1",
     "importlib-metadata>=8.7.0",
     "accelerate>=1.8.1",
+    "evaluate>=0.4.5",
+    "seqeval>=1.2.2",
 ]
 
 [tool.uv.sources]
